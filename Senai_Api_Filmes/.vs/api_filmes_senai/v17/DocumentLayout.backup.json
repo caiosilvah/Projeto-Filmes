@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Migrations\\20250429191939_filmes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250429191939_filmes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:contexts\\filmes_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|c:\\users\\47836585875\\desktop\\senai_api_filmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F4642D-B6B6-419D-BA7E-C297A777076F}|api_filmes_senai.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250429191939_filmes2.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Migrations\\20250429191939_filmes2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250429191939_filmes2.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Migrations\\20250429191939_filmes2.cs",
+              "RelativeToolTip": "Migrations\\20250429191939_filmes2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:19:39.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T19:18:49.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filmes_Context.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Contexts\\Filmes_Context.cs",
+              "RelativeDocumentMoniker": "Contexts\\Filmes_Context.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Contexts\\Filmes_Context.cs",
+              "RelativeToolTip": "Contexts\\Filmes_Context.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:15:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:32:44.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:31:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "Controllers\\FilmeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:55:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Controllers\\GeneroController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:41:50.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47836585875\\Desktop\\Senai_Api_Filmes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAJYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:00:53.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
